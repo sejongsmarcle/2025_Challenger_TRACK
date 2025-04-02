@@ -1,0 +1,1 @@
+[2025.4.2(수) 제 1차 공유회](https://udangtangtang-cording-oldcast1e.notion.site/2025-4-2-1-1c80a7f03b05804f8233c54d7ae9f3e3?pvs=4)
