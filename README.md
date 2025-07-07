@@ -42,7 +42,7 @@
 	```
 	✅양식에 맞게 계획서 및 예산안 제출
 	```
-	> 양식 다운로드 : [(양식) 기획서 다운로드](~~) <br>
+	> 양식 다운로드 : [(양식) 기획서 다운로드](https://github.com/sejongsmarcle/2025_Challenger_TRACK/blob/main/02.%20%EA%B8%B0%ED%9A%8D%EC%84%9C/2%EC%B0%A8/(%EC%96%91%EC%8B%9D)2025%20%ED%95%98%EB%B0%98%EA%B8%B0%20%EC%9E%90%EC%9C%A8%EC%8A%A4%ED%84%B0%EB%94%94%20%EA%B8%B0%ED%9A%8D%EC%84%9C.docx) <br>
 	> 제출 위치: [(폴더)기획서 제출 위치](https://github.com/sejongsmarcle/2025_Challenger_TRACK/tree/main/02.%20%EA%B8%B0%ED%9A%8D%EC%84%9C/2%EC%B0%A8)
 
 - **여름학기 공유회 일정**
